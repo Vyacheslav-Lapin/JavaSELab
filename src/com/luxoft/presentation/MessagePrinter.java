@@ -1,4 +1,4 @@
-package com.luxoft.training.java;
+package com.luxoft.presentation;
 
 public class MessagePrinter {
 
