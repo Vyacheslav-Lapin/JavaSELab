@@ -1,7 +1,8 @@
 package com.luxoft.training.java;
 
-public class HWMessager {
-    public static String getMessage() {
+public class MessagePrinter {
+
+    public String sayHello() {
         return "Hello, World!";
     }
 }
